@@ -1,2 +1,1 @@
-# IvanBorislavovDimitrov.github.io
-Blog site
+# IvanBorislavovDimitrov
